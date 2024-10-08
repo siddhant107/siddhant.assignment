@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#semesters2-content-container,
+#courses-content-container,
+#endsection-content-container {
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
